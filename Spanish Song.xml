@@ -1,0 +1,252 @@
+<music>
+	<PlaybackSpeed>1.5</PlaybackSpeed>
+	<noteTextureIndex>0</noteTextureIndex>
+	<StripName>Spanish song</StripName>
+	<StripCredits>Anonymous</StripCredits>
+	<StripContact></StripContact>
+	<StripInfo>Demonstration+of+a+Music+Box+Composer+shared+composition.+On+a+desktop+machine+(OSX%2c+Windows+-+not+yet+for+Linux)+it+plays+in+a+web+player.+On+mobile+it+will+open+in+Music+Box+Composer+(if+installed)+and+allow+editing+if+the+publisher+wishes.</StripInfo>
+	<DoLoopPublish>1</DoLoopPublish>
+	<AllowEditingPublish>1</AllowEditingPublish>
+	<AutoPlayPublish>1</AutoPlayPublish>
+	<NoteCount>80</NoteCount>
+	<n>noteByPos</n>
+	<nota p='11' 
+		t='2.5000'/>
+	<n>noteByPos</n>
+	<nota p='23' 
+		t='0.5000'/>
+	<n>noteByPos</n>
+	<nota p='14' 
+		t='3.0000'/>
+	<n>noteByPos</n>
+	<nota p='7' 
+		t='0.5000'/>
+	<n>noteByPos</n>
+	<nota p='11' 
+		t='1.0000'/>
+	<n>noteByPos</n>
+	<nota p='14' 
+		t='1.5000'/>
+	<n>noteByPos</n>
+	<nota p='7' 
+		t='2.0000'/>
+	<n>noteByPos</n>
+	<nota p='21' 
+		t='2.5000'/>
+	<n>noteByPos</n>
+	<nota p='19' 
+		t='3.0000'/>
+	<n>noteByPos</n>
+	<nota p='12' 
+		t='4.5000'/>
+	<n>noteByPos</n>
+	<nota p='19' 
+		t='6.5000'/>
+	<n>noteByPos</n>
+	<nota p='6' 
+		t='3.5000'/>
+	<n>noteByPos</n>
+	<nota p='9' 
+		t='4.0000'/>
+	<n>noteByPos</n>
+	<nota p='21' 
+		t='3.5000'/>
+	<n>noteByPos</n>
+	<nota p='19' 
+		t='5.5000'/>
+	<n>noteByPos</n>
+	<nota p='18' 
+		t='6.0000'/>
+	<n>noteByPos</n>
+	<nota p='6' 
+		t='5.0000'/>
+	<n>noteByPos</n>
+	<nota p='9' 
+		t='5.5000'/>
+	<n>noteByPos</n>
+	<nota p='12' 
+		t='6.0000'/>
+	<n>noteByPos</n>
+	<nota p='18' 
+		t='8.5000'/>
+	<n>noteByPos</n>
+	<nota p='16' 
+		t='9.0000'/>
+	<n>noteByPos</n>
+	<nota p='15' 
+		t='9.5000'/>
+	<n>noteByPos</n>
+	<nota p='4' 
+		t='6.5000'/>
+	<n>noteByPos</n>
+	<nota p='7' 
+		t='7.0000'/>
+	<n>noteByPos</n>
+	<nota p='11' 
+		t='7.5000'/>
+	<n>noteByPos</n>
+	<nota p='4' 
+		t='8.0000'/>
+	<n>noteByPos</n>
+	<nota p='7' 
+		t='8.5000'/>
+	<n>noteByPos</n>
+	<nota p='11' 
+		t='9.0000'/>
+	<n></n>
+	<nota p='11' 
+		t='14.5000'/>
+	<n></n>
+	<nota p='23' 
+		t='13.5000'/>
+	<n></n>
+	<nota p='21' 
+		t='13.7500'/>
+	<n></n>
+	<nota p='23' 
+		t='12.5000'/>
+	<n></n>
+	<nota p='23' 
+		t='13.0000'/>
+	<n></n>
+	<nota p='24' 
+		t='13.2500'/>
+	<n></n>
+	<nota p='23' 
+		t='14.0000'/>
+	<n></n>
+	<nota p='14' 
+		t='15.0000'/>
+	<n></n>
+	<nota p='7' 
+		t='12.5000'/>
+	<n></n>
+	<nota p='11' 
+		t='13.0000'/>
+	<n></n>
+	<nota p='14' 
+		t='13.5000'/>
+	<n></n>
+	<nota p='7' 
+		t='14.0000'/>
+	<n></n>
+	<nota p='21' 
+		t='16.0000'/>
+	<n></n>
+	<nota p='21' 
+		t='14.5000'/>
+	<n></n>
+	<nota p='21' 
+		t='16.5000'/>
+	<n></n>
+	<nota p='19' 
+		t='19.0000'/>
+	<n></n>
+	<nota p='19' 
+		t='15.0000'/>
+	<n></n>
+	<nota p='12' 
+		t='16.5000'/>
+	<n></n>
+	<nota p='23' 
+		t='16.2500'/>
+	<n></n>
+	<nota p='19' 
+		t='18.5000'/>
+	<n></n>
+	<nota p='6' 
+		t='15.5000'/>
+	<n></n>
+	<nota p='9' 
+		t='16.0000'/>
+	<n></n>
+	<nota p='21' 
+		t='15.5000'/>
+	<n></n>
+	<nota p='19' 
+		t='16.7500'/>
+	<n></n>
+	<nota p='21' 
+		t='17.0000'/>
+	<n></n>
+	<nota p='19' 
+		t='17.5000'/>
+	<n></n>
+	<nota p='18' 
+		t='18.0000'/>
+	<n></n>
+	<nota p='6' 
+		t='17.0000'/>
+	<n></n>
+	<nota p='9' 
+		t='17.5000'/>
+	<n></n>
+	<nota p='12' 
+		t='18.0000'/>
+	<n></n>
+	<nota p='21' 
+		t='19.2500'/>
+	<n></n>
+	<nota p='19' 
+		t='19.5000'/>
+	<n></n>
+	<nota p='18' 
+		t='19.7500'/>
+	<n></n>
+	<nota p='19' 
+		t='20.0000'/>
+	<n></n>
+	<nota p='18' 
+		t='20.5000'/>
+	<n></n>
+	<nota p='16' 
+		t='21.0000'/>
+	<n></n>
+	<nota p='16' 
+		t='21.5000'/>
+	<n></n>
+	<nota p='18' 
+		t='21.6250'/>
+	<n></n>
+	<nota p='16' 
+		t='21.7500'/>
+	<n></n>
+	<nota p='15' 
+		t='22.0000'/>
+	<n></n>
+	<nota p='4' 
+		t='18.5000'/>
+	<n></n>
+	<nota p='9' 
+		t='19.0000'/>
+	<n></n>
+	<nota p='11' 
+		t='19.5000'/>
+	<n></n>
+	<nota p='4' 
+		t='20.0000'/>
+	<n></n>
+	<nota p='9' 
+		t='20.5000'/>
+	<n></n>
+	<nota p='11' 
+		t='21.0000'/>
+	<n></n>
+	<nota p='11' 
+		t='10.5000'/>
+	<n>noteByPos</n>
+	<nota p='3' 
+		t='9.5000'/>
+	<n>noteByPos</n>
+	<nota p='6' 
+		t='10.0000'/>
+	<n>noteByPos</n>
+	<nota p='3' 
+		t='11.0000'/>
+	<n>noteByPos</n>
+	<nota p='6' 
+		t='11.5000'/>
+	<n>noteByPos</n>
+	<nota p='11' 
+		t='12.0000'/>
+</music>

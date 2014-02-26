@@ -1,0 +1,1 @@
+for /f "delims=, tokens=1,2" %%i in (q) do if not exist "%%j.mbc" curl -f -x serprx101rm001.services.external.local:8080 --proxy-ntlm -U UE012725:ercolin0! -o "%%i.mbc" "http://www.jellybiscuits.com/mbc/strip_uploads/%%j.mbc"
