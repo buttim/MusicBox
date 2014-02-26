@@ -81,7 +81,7 @@ class App : Form {
 	bool playing=false, bDirty=false;
 	BitArray[] composizione=new BitArray[MAXNOTE];
 	Timer t=new Timer();
-		OutputDevice outputDevice=OutputDevice.InstalledDevices[1];
+	OutputDevice outputDevice=OutputDevice.InstalledDevices[0];
 
 	void pbCanvas_MouseMove(object sender,MouseEventArgs e) {
 		int w=pbCanvas.ClientSize.Width,
@@ -292,7 +292,7 @@ class App : Form {
 
 	bool CheckAndSave() {
 		if (bDirty) {
-			DialogResult dr=MessageBox.Show("Do you want to save?","File modified",MessageBoxButtons.YesNoCancel,MessageBoxIcon.Question);
+			DialogResult dr=MessageBox.Show(this,"Do you want to save?","File modified",MessageBoxButtons.YesNoCancel,MessageBoxIcon.Question);
 			if (dr==DialogResult.Cancel) return false;
 			if (dr==DialogResult.Yes) Save();
 		}
@@ -422,6 +422,8 @@ class App : Form {
 	
 	[STAThread]
 	static void Main(string[] args) {
+		/* foreach (OutputDevice od in OutputDevice.InstalledDevices)
+			Console.WriteLine(od.Name); */
 		Application.EnableVisualStyles();
 		App app=new App();
 		if (args.Length==1)
