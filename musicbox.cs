@@ -422,8 +422,6 @@ class App : Form {
 	
 	[STAThread]
 	static void Main(string[] args) {
-		/* foreach (OutputDevice od in OutputDevice.InstalledDevices)
-			Console.WriteLine(od.Name); */
 		Application.EnableVisualStyles();
 		App app=new App();
 		if (args.Length==1)
