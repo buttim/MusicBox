@@ -53,7 +53,7 @@
 				<text x="5" y="49" id="note"
 					font-family="Arial"
 					font-size='1.15mm'
-					style="fill:#000000">CDEFGABCDEFGABCDEFGA</text>
+					style="fill:#000000">CDEFGABCDEFGABCDEFGAB</text>
 			</g>
 			<g style="stroke:#000000;stroke-width:0.1">
 				<rect style="stroke:#000000; fill:none; stroke-with:0.1"
